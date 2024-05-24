@@ -113,7 +113,7 @@ print("""   Alice in the borderland
 
       [ chishiya game ]
       """)
-player_count=int(input("how mach player: "))
+player_count=int(input("how many player: "))
 if player_count == 1:
   runn(player_count)
 elif player_count == 2:
