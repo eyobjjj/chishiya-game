@@ -145,7 +145,7 @@ print("""   Alice in the borderland
 
       [ chishiya game ]       created by jj
       """)
-player_count=int(input("how mach player (1-5): "))
+player_count=int(input("how many player (1-5): "))
 if player_count == 1:
   runn(player_count)
 elif player_count == 2:
